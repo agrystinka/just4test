@@ -24,6 +24,7 @@ roseroserose
 --------------------------------
 
 Commit #3
+<<<<<<< HEAD
 limelimelime pickpickpick
 
 --------------------------------
@@ -33,5 +34,8 @@ roseroserose
 =======
 limelimelime
 >>>>>>> 290c1537c6e338177c791e646093838874c227eb
+=======
+limelimelime
+>>>>>>> 501a0c0... Third commit
 
 --------------------------------
